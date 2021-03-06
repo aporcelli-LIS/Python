@@ -16,4 +16,5 @@ print(foster_pets)
 print(foster_mouse) 
 
 x=foster_mouse 
+#Test to ensure deep copy properties
 print(x)
